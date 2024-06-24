@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nayan&show_icons=true&locale=en" alt="nayan" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan&" alt="nayan" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan&" alt="nayan" /></p>
