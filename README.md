@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayancod&label=Profile%20views&color=0e75b6&style=flat" alt="nayancod" /> </p>
 
-- 🌱 I’m currently learning **Backend (ExpressJs, REST APIs,**
+- 🌱 I’m currently learning **(Fastify, Vue3, Pinia and some js frameworks)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayanCod](https://github.com/NayanCod)
 
