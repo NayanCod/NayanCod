@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayanCod](https://github.com/NayanCod)
 
-- 💬 Ask me about **React, Redux, tailwind**
+- 💬 Ask me about **Javascript, React, Vue, tailwind css, express, prisma postgresql and mongoDB **
 
 - 📫 How to reach me **kumarnayab6@gmail.com**
 
