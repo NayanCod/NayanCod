@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, React, Vue, tailwind css, express, prisma postgresql and mongoDB**
 
-- 📫 How to reach me **kumarnayab6@gmail.com**
+- 📫 You can reach me via **kumarnayab6@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_kOeCRsvEto78YFh_p2zHn0ttuoDtq1c/view?usp=drive_link)
 
