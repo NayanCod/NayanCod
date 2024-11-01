@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me via **kumarnayab6@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_kOeCRsvEto78YFh_p2zHn0ttuoDtq1c/view?usp=drive_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1g9wGmLKit4I6k_qwc8zglbyKnNynGBC3/view?usp=drive_link)
 
 - ⚡ Fun fact **I blend in fast and become funny😅**
 
