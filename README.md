@@ -3,13 +3,13 @@
 
 <img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayancod&label=Profile%20views&color=0e75b6&style=flat" alt="nayancod" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayancod&label=Profile%20views&color=0e75b6&style=flat" alt="Nayancod" /> </p>
 
 - 🌱 I’m currently learning **(Typescript, VueJS, and postgresql database with prisma)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayanCod](https://github.com/NayanCod)
 
-- 💬 Ask me about **Javascript, React, Vue, tailwind css, express, prisma postgresql and mongoDB**
+- 💬 Ask me about **Javascript, React, Vue, tailwind css, express, prisma, postgresql and mongoDB**
 
 - 📫 Reach out to me via **kumarnayab6@gmail.com**
 
