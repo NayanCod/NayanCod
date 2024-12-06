@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayanCod](https://github.com/NayanCod)
 
-- 💬 Ask me about **Javascript, React, Vue, tailwind css, express, prisma, postgresql and mongoDB**
+- 💬 Lets talk about **Javascript, React, Vue, tailwind css, express, prisma, postgresql and mongoDB**
 
 - 📫 Reach out to me via **kumarnayab6@gmail.com**
 
