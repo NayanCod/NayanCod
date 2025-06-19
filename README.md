@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me via **kumarnayab6@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://nayan-dev.netlify.app/)
+- 📄 Know about my experiences [My Portfolio](https://nayan-portfolio-eight.vercel.app/)
 
 - ⚡ Fun fact **I blend in fast and become funny😅**
   
