@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nayan</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayancod&label=Profile%20views&color=0e75b6&style=flat" alt="Nayancod" /> </p>
 
-- 🌱 I’m currently learning **(NextJS and Typescript)**
+- 🌱 I’m currently deep dive into **System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayanCod](https://github.com/NayanCod)
 
-- 💬 Lets talk about **Javascript, React, Vue, tailwind css, express, prisma, postgresql and mongoDB**
+- 💬 Lets talk about **Backend System Architecture, Handling Millions of users, Mobile App Development and more**
 
-- 📫 Reach out to me via **kumarnayab6@gmail.com**
+- 📫 Reach out to me via **nayannew9@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://nayan-portfolio-eight.vercel.app/)
+- 📄 Know about my experiences [My Portfolio](https://nayan-dev-tau.vercel.app/)
 
 - ⚡ Fun fact **I blend in fast and become funny😅**
   
-- 📄 [Download my CV](https://drive.google.com/file/d/1JnxLKIDSL15qIIs6_XB321rYD4OX726e/view?usp=drive_link)
+- 📄 [Download my CV](https://drive.google.com/file/d/1jWFvGs1n7p8ghD2pghBcB9LMKfy_t7iF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.github.com/NayanCod" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nayan-4b2b61249" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/nayannew9" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> </p>
